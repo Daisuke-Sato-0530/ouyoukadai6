@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+いいね機能の非同期通信化
+コメント機能の非同期通信化
+
+できた
